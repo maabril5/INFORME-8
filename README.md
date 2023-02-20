@@ -67,6 +67,41 @@ En el primer cuadrante.
 
 ![image](https://user-images.githubusercontent.com/117920423/220014635-2c92963c-0d61-4d7a-9e59-dad413dde723.png)
 
+SECCIÓN 15–2 Respuesta sinusoidal de circuitos RC en serie
+
+![image](https://user-images.githubusercontent.com/117920423/220014808-9d0f9352-89f1-4c4a-b949-33d454b104ce.png)
+
+La corriente sinusoidal.
+
+SECCIÓN 15–3 Impedancia de circuitos RC en serie
+
+![image](https://user-images.githubusercontent.com/117920423/220015007-a391138e-24e8-4052-a38b-731db37dd411.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220015203-a51d6450-03a0-47a2-9b82-6a6b526461e3.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220015246-66ff36b3-a680-403b-b6ac-8e8765d4050d.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220015277-2f746c12-9601-4a1b-bed0-40c0542b0c23.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220015324-371ae8c4-9904-4ed1-b229-cdcb343aa025.png)
+
+SECCIÓN 15–4 Análisis de circuitos RC en serie
+
+![image](https://user-images.githubusercontent.com/117920423/220015413-1792bedf-fcb7-4c08-8207-8ab4f014409f.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220015451-21e4ef7b-940b-482f-8548-9fd2b53248ec.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220015485-96b617be-951b-4e37-963b-3ea190dc2674.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220015516-1ff2b598-aa4d-42cf-843d-2e103db7a32e.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220015569-f581d6e8-38ce-4f10-a9c6-a6767f56844f.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220015599-955dd5f5-13bb-4aa6-b9eb-5409823d9d97.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220015660-2d071436-b508-490d-bc4c-f59caface002.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220015693-d8e98a25-4f51-4a0b-8fe8-5cd38b44bcb3.png)
 
 
 
