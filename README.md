@@ -125,7 +125,7 @@ SECCIÓN 15–4 Análisis de circuitos RC en serie
 
 ![image](https://user-images.githubusercontent.com/117920423/220017562-d2c4b9cc-2c8f-4018-b3a7-9568a6a4c721.png)
 
-,
+![image](https://user-images.githubusercontent.com/117920423/220017777-637b5eec-cae7-4bd2-a647-b63b70256d6f.png)
 
 
 
