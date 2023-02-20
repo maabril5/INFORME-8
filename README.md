@@ -157,7 +157,7 @@ SECCIÓN 15–7 Análisis de circuitos RC en serie-paralelo
 
 Es predominantemente resistivo.
 
-![image](https://user-images.githubusercontent.com/117920423/220020081-6afaf3fd-33ed-4c34-867f-c187d600bbe4.png)
+![image](https://user-images.githubusercontent.com/117920423/220021655-3742115f-09a4-4982-8df6-52c0c461a482.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/220020282-0ee6cae1-44b9-413d-a850-e15a1f3a25ab.png)
 
@@ -178,6 +178,10 @@ SECCIÓN 15–8 Potencia en circuitos RC
 ![image](https://user-images.githubusercontent.com/117920423/220021138-68e0ef72-8a77-4d57-b3b0-f264fc92fc15.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/220021257-434dbf6f-6bc0-43d0-be46-1b2aaa71a6a7.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220021773-37b7e585-e48d-42d6-9036-809315961e19.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220021875-1fa8a53b-c81f-4447-84ee-67c337a1efcf.png)
 
 
 
