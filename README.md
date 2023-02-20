@@ -125,7 +125,60 @@ SECCIÓN 15–4 Análisis de circuitos RC en serie
 
 ![image](https://user-images.githubusercontent.com/117920423/220017562-d2c4b9cc-2c8f-4018-b3a7-9568a6a4c721.png)
 
-![image](https://user-images.githubusercontent.com/117920423/220017777-637b5eec-cae7-4bd2-a647-b63b70256d6f.png)
+SECCIÓN 15–5 Impedancia y admitancia de circuitos RC en paralelo
+
+![image](https://user-images.githubusercontent.com/117920423/220017960-115d3d06-d27d-444d-9dd6-17e6d4f9a6a3.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220018129-e5ea03fb-c5a4-4b64-bad9-99c14eced465.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220018218-4cd02e2e-de4a-416d-a5e6-aaa8314311e9.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220018257-ea2ad44b-fbb2-45ef-81b1-0cbdcc6f17e8.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220018308-c99ba754-6d90-4577-b73f-1494ea677c38.png)
+
+SECCIÓN 15–6 Análisis de circuitos RC en paralelo
+
+![image](https://user-images.githubusercontent.com/117920423/220018488-6e864563-c2e7-468a-b8c6-77174e32ab7c.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220018756-47fab7be-324a-4874-b437-fa4b4b3748cb.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220018859-600eef38-3ea5-4a0c-837f-03f5b7bd5174.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220018942-124dcb63-0ec2-4f6b-b4ee-c72529f0fff1.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220019008-64f8e58b-025f-40be-a3b9-acc4da6c86f0.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220019111-8a592ca9-57af-4a01-9e92-97d806bb26dd.png)
+
+SECCIÓN 15–7 Análisis de circuitos RC en serie-paralelo
+
+![image](https://user-images.githubusercontent.com/117920423/220019291-580c50d0-cfa1-4230-b1e3-0009f2bcad15.png)
+
+Es predominantemente resistivo.
+
+![image](https://user-images.githubusercontent.com/117920423/220020081-6afaf3fd-33ed-4c34-867f-c187d600bbe4.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220020282-0ee6cae1-44b9-413d-a850-e15a1f3a25ab.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220020715-b46dce25-c371-4a0d-b98f-f3d759cbd8b1.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220020775-f9adada3-9c33-4761-a820-a6b1a1ac6823.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220020794-9957bb23-aeda-4afe-866f-37f6bbe5064c.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220020871-e3d9ec8a-efe9-40e7-9db9-a628b8e60151.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220020912-4da14706-292e-47f8-8826-4a6896eb32e8.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220021021-d7c76d02-b531-4873-9ed5-4accf8304b83.png)
+
+SECCIÓN 15–8 Potencia en circuitos RC
+
+![image](https://user-images.githubusercontent.com/117920423/220021138-68e0ef72-8a77-4d57-b3b0-f264fc92fc15.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220021257-434dbf6f-6bc0-43d0-be46-1b2aaa71a6a7.png)
+
 
 
 
