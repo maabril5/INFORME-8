@@ -183,6 +183,36 @@ SECCIÓN 15–8 Potencia en circuitos RC
 
 ![image](https://user-images.githubusercontent.com/117920423/220021875-1fa8a53b-c81f-4447-84ee-67c337a1efcf.png)
 
+![image](https://user-images.githubusercontent.com/117920423/220022354-e1633773-7372-4f2a-a2fc-a247c4fc148a.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220022494-b5c276e0-06b3-4f47-aca4-bea40e5882fe.png)
+
+SECCIÓN 15–9 Aplicaciones básicas
+
+![image](https://user-images.githubusercontent.com/117920423/220022648-816b1dbb-c07c-4fe6-bc54-7aec015c547c.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220022818-a4f6c62c-4e5e-4f5a-aa99-4e8640cb3d4c.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220022950-c0d4fbde-f790-4ab5-9b30-6025f369b2fb.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220023084-8c6156bf-4d0f-4740-a400-22126abf60e6.png)
+
+SECCIÓN 15–10 Localización de fallas
+
+![image](https://user-images.githubusercontent.com/117920423/220023210-8fc7da7d-fdf6-42a3-b536-8544fc043a04.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220023262-c2328dd8-a63b-4043-8546-298ca4e43201.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220023363-6b705534-7361-4b32-a50e-91350306530b.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220023411-95b9f32d-51e0-42f0-b338-aabc237ecf4c.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220023476-c8ac4b81-127d-4f0d-b102-da72c7aa9f00.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220023729-aa2e32d7-9cd6-4bc4-88e4-48aaa36ae2e9.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220023900-c4fb7b7f-56d1-4eff-9be8-0d5c95d0002a.png)
+
 
 
 
