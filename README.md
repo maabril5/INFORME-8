@@ -65,6 +65,8 @@ En el primer cuadrante.
 
 ![image](https://user-images.githubusercontent.com/117920423/220014106-925e26cc-7394-4310-86a4-9db9a9d2c99b.png)
 
+![image](https://user-images.githubusercontent.com/117920423/220014635-2c92963c-0d61-4d7a-9e59-dad413dde723.png)
+
 
 
 
