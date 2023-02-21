@@ -215,6 +215,37 @@ SECCIÓN 15–10 Localización de fallas
 
 CAPÍTULO 16.
 
+SECCIÓN 16–1 Respuesta sinusoidal de circuitos RL en serie
+
+![image](https://user-images.githubusercontent.com/117920423/220244417-b6f8ba40-bea6-4063-9dd1-749889acade0.png)
+
+I, VR y VL son ondas de forma sinusoidal.
+
+SECCIÓN 16–2 Impedancia de circuitos RL en serie
+
+![image](https://user-images.githubusercontent.com/117920423/220244601-17e811f2-667f-4a5b-ac10-5c3e5da8bcd0.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220244654-1abe27b0-75a4-444f-ad42-9dc57199f602.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220244685-4b899bc2-99bf-4725-9897-8f62a9a88abb.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220244718-11fc39b2-7d2a-4cda-9a0f-15b84b62f93b.png)
+
+SECCIÓN 16–3 Análisis de circuitos RL en serie
+
+![image](https://user-images.githubusercontent.com/117920423/220244907-0adb8712-23fd-4b16-b7c1-5151d945131d.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220244960-08d199ab-4635-4327-b884-7d9a2a19198a.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220245083-1d36dbf9-5ba8-4888-8be2-67843867cd14.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220245152-9cc2cd57-753b-4de7-bec2-fde437d4dc2e.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220245213-30a739a7-23b7-4012-9d88-fe7b0433a88f.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220245316-8e158ede-366c-4013-8c0a-dff8d24b703c.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220245392-da0043cd-e3cf-4991-8bc2-d9543fea1dd6.png)
 
 
 
