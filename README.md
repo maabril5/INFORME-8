@@ -2,17 +2,17 @@
 
 1. OBJETIVOS:
 
-Estudiar y comprender el uso y aplicación de los transformadores e inductores.
+- Estudiar y comprender el comportamiento de los circuitos RC y RL, 
 
-Entender el cálculo de la inductancia total en serie y en paralelo.
+- Identificar la relación que existe entre las corrientes y los voltajes de un circuito RC.
 
-Determinar en que forma se dividen los inductores.
+- Conocer como analizar dos conjuntos de componentes en paralelo de un circuito RL.
 
-Mediante un video establecer el tema expuesto y adquirir un mejor entendimiento.
+- Mediante un video establecer el tema expuesto y adquirir un mejor entendimiento.
 
 1.1 OBJETIVO ESPECÍFICO:
 
-Haber entendido los conceptos presentados en el capítulo 13 y 14 referente a inductores y transformadores, analizando los tipos que podemos encontrar, además de las aplicaciones que se le pueden dar en forma de serie o paralelo en un circuito.
+- Haber entendido los conceptos presentados en el capítulo 15 y 16 referente a circuitos RL y RC, conociendo sus usos y sus aplicaciones al momento de la resolución de ejercicios o análisis de los mismos.
 
 2. MARCO TEÓRICO
 
@@ -341,9 +341,29 @@ SECCIÓN 16–9 Localización de fallas
 
 ![image](https://user-images.githubusercontent.com/117920423/220249111-a269920a-5ec1-4c56-a0ed-d02a82313c14.png)
 
-![image](https://user-images.githubusercontent.com/117920423/220249150-7be3c683-2120-43f8-a875-5ad8abe13f08.png)
+VR1 = 5V
+VR2 = 0V
+VR3 = 0V
+VL1 = 5V
+VL2 = 0V
+
+4. CONCLUSIONES.
+
+- Se estudió el procedimeinto para realizar el análisis de un circuito RL con dos conjuntos de componentes en paralelo 
+
+- La impedancia y admitancia fueron temas muy importantes para tener en conocimiento la resolución de ejercicios.
+
+- Para el mejor entendimiento de lo planteado fue importante el uso y aplicaciones de los números complejos, al igual que sus operaciones.
+
+- En el video presentado pudimos desarrollar conocimientos de los aprendido con nuevos temas a exponer y ejercicios.
+
+5. VIDEO.
 
 
+
+6. BIBLIOGRAFÍA.
+
+- Floyd, T. (2007). Principios de circuitos eléctricos. Ciudad de México: Pearson Eduación.
 
 
 
