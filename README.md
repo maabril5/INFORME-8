@@ -335,8 +335,6 @@ SECCIÓN 16–8 Aplicaciones básicas
 
 ![image](https://user-images.githubusercontent.com/117920423/220248970-4beb3cc6-c52a-484b-bafe-135f55c1cdcd.png)
 
-![image](https://user-images.githubusercontent.com/117920423/220249033-ecb77c5e-cf98-46ce-9970-3f1884335e81.png)
-
 SECCIÓN 16–9 Localización de fallas
 
 ![image](https://user-images.githubusercontent.com/117920423/220249095-88e0d489-5e48-4a34-bd2c-c934b686608b.png)
