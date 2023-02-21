@@ -247,6 +247,14 @@ SECCIÓN 16–3 Análisis de circuitos RL en serie
 
 ![image](https://user-images.githubusercontent.com/117920423/220245392-da0043cd-e3cf-4991-8bc2-d9543fea1dd6.png)
 
+![image](https://user-images.githubusercontent.com/117920423/220245599-45145b98-b2d3-42fb-8813-efa85b7d9ec9.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220245630-4627150b-29e6-446b-ac41-907038ef23ba.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220245656-54af4bc0-dd03-493a-ae31-28993faa0d0b.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220245706-45778e8f-4aef-4387-b1ba-d485b5ca4b61.png)
+
 
 
 
