@@ -259,8 +259,91 @@ SECCIÓN 16–3 Análisis de circuitos RL en serie
 
 ![image](https://user-images.githubusercontent.com/117920423/220245999-970f5c58-5b1f-4550-869f-864c8afd0f98.png)
 
+![image](https://user-images.githubusercontent.com/117920423/220246103-dafbfc59-c915-4693-bb71-445203c7f657.png)
 
+![image](https://user-images.githubusercontent.com/117920423/220246124-6a61232f-01a7-419e-89b9-4d1935010617.png)
 
+![image](https://user-images.githubusercontent.com/117920423/220246226-d6e12b79-9c3c-44ff-ac4b-342054999676.png)
+
+SECCIÓN 16–4 Impedancia y admitancia de circuitos RL en paralelo
+
+![image](https://user-images.githubusercontent.com/117920423/220246408-237d940b-0c65-4cd9-aa5b-da85165dbf9d.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220246475-0876d6ab-c21e-4e9e-9d09-1d90c4adf984.png)
+
+SECCIÓN 16–5 Análisis de circuitos RL en paralelo
+
+![image](https://user-images.githubusercontent.com/117920423/220246554-39d4a0a3-ed2c-45e6-9420-73d76e26275d.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220246590-34359c30-1270-4b55-b248-7600d093ad16.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220246654-b6f59cb8-5af9-40ec-85c5-d65cdff6a933.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220246757-13e43a66-2649-4d67-854c-0106b4db3f86.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220246806-8b6b4d6f-c2bf-42ee-bdc8-f60fc655c488.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220246832-4814a9f8-e823-46a8-8394-20f165e95ef2.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220246894-41638b86-6d27-45ed-b6fb-1913c29dfca1.png)
+
+SECCIÓN 16–6 Análisis de circuitos RL en serie-paralelo
+
+![image](https://user-images.githubusercontent.com/117920423/220246959-7aafefe7-51c4-4fc7-a97a-def1a72bd4cb.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220247012-f6a3ac57-67b5-4cd5-bac7-16a9a19ae24e.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220247088-c6c8dea6-eddb-4778-983a-6aacc28a3ea3.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220247124-6fe7da3a-c7b0-4e63-ab82-746cd206262c.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220247150-851b9dd4-c329-450a-b8ff-b0f1e3a8b459.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220247292-978cedf8-b470-4bf7-90e2-965ec60b99a1.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220247342-623c4a59-1280-4f64-ae8a-eb8a04404165.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220247418-6ecf1a80-ae46-4487-81e4-30437a9db4d0.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220248256-ffc05b55-2690-4519-a397-9afd9f6d2e6c.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220248342-ab232af4-280f-4a71-b015-5d2faa511bd0.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220248387-9221e8d6-0290-49d5-bcce-e652bde840be.png)
+
+SECCIÓN 16–7 Potencia en circuitos RL
+
+![image](https://user-images.githubusercontent.com/117920423/220248432-8197e42c-fcfd-49d1-b11b-ed4ef71483ca.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220248482-920e98ad-0150-46da-ab9a-84d0dae5d20e.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220248504-1c0b63d0-8d11-4395-90a3-37a98c864aa3.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220248558-a149ff24-8fe2-44c0-b522-26c8582dc504.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220248588-a05b3627-2781-42f1-aa8e-517333c370eb.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220248643-5ae216fa-e149-4535-882c-401e989bf141.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220248673-e83d0808-3ac9-4f38-8679-f599fb812479.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220248713-b924d22a-69fc-49f4-af8e-66b2ed4625e0.png)
+
+SECCIÓN 16–8 Aplicaciones básicas
+
+![image](https://user-images.githubusercontent.com/117920423/220248801-83a077a9-9851-4a01-b2b4-090fe5e27e5b.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220248970-4beb3cc6-c52a-484b-bafe-135f55c1cdcd.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220249033-ecb77c5e-cf98-46ce-9970-3f1884335e81.png)
+
+SECCIÓN 16–9 Localización de fallas
+
+![image](https://user-images.githubusercontent.com/117920423/220249095-88e0d489-5e48-4a34-bd2c-c934b686608b.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220249111-a269920a-5ec1-4c56-a0ed-d02a82313c14.png)
+
+![image](https://user-images.githubusercontent.com/117920423/220249150-7be3c683-2120-43f8-a875-5ad8abe13f08.png)
 
 
 
