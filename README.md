@@ -16,10 +16,13 @@
 
 2. MARCO TEÓRICO
 
+![image](https://user-images.githubusercontent.com/117920423/220831941-e47bb6d9-a816-47ce-80f1-c1e1ea13011f.png)
 
+![image](https://user-images.githubusercontent.com/117920423/220831985-7094856c-8c6c-4b3c-9f77-a8b93990e31c.png)
 
+![image](https://user-images.githubusercontent.com/117920423/220832026-4de65547-31be-49e4-801b-13f4a763c3cb.png)
 
-
+![image](https://user-images.githubusercontent.com/117920423/220832064-c0cc22b3-27d0-479c-86a9-3476b8ff8019.png)
 
 3. EJERCICIOS DE APRENDIZAJE.
 
